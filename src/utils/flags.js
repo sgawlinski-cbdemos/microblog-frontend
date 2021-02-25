@@ -3,7 +3,7 @@ import store from '../store'
 import { betaAccess } from './users'
 
 export const Flags = {
-  sidebar: new Rox.Flag(false),
+  sidebar: new Rox.Flag(false)
   title: new Rox.Flag(false)
 }
 
